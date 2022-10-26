@@ -1,0 +1,18 @@
+{
+  "name": "Sem Monsma",
+  "short_name": "Sem Monsma",
+  "description": "Full-Stack developer who loves building visually pleasing products.",
+  "lang": "en-EN",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#131313",
+  "background_color": "#131313",
+  "icons": [
+    {
+      "src": "icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
